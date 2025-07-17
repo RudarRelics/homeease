@@ -38,7 +38,7 @@
   <img src="https://your-screenshot-or-gif-link.gif" alt="HomeEase Demo" width="80%"/>
 </p>
 
-🔗 **[Try It Live →](https://homeease-oa77.onrender.com)**
+🔗 **Live Demo →** *([https://homeease-oa77.onrender.com](https://homeease-oa77.onrender.com))*
 
 ## 🧪 Test Credentials
 
