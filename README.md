@@ -15,22 +15,22 @@
 
 ## ✨ Features
 
-- 🔍 Search and discover workers by service & city  
-- 📅 Book services with real-time availability  
-- 💼 Workers showcase skills and experience  
-- ⭐ Users can leave reviews and ratings  
-- 🔐 Secure JWT authentication  
+- 🔍 Search and discover workers by service & city
+- 📅 Book services with real-time availability
+- 💼 Workers showcase skills and experience
+- ⭐ Users can leave reviews and ratings
+- 🔐 Secure JWT authentication
 - 💻 Fully responsive UI
 
 ## 🏷️ Tech Stack
 
-| Layer      | Tech                                                         |
-|------------|--------------------------------------------------------------|
-| Frontend   | React, TypeScript, Tailwind CSS                              |
-| Backend    | Node.js, ExpressJS                                           |
-| Database   | MongoDB                                                      |
-| Auth       | JSON Web Token (JWT)                                         |
-| Hosting    | [Render.com](https://render.com)                             |
+| Layer    | Tech                             |
+| -------- | -------------------------------- |
+| Frontend | React, TypeScript, Tailwind CSS  |
+| Backend  | Node.js, ExpressJS               |
+| Database | MongoDB                          |
+| Auth     | JSON Web Token (JWT)             |
+| Hosting  | [Render.com](https://render.com) |
 
 ## 📺 Live Demo
 
@@ -46,11 +46,13 @@
 > Some features require login to function properly.
 
 ### 👤 User Login:
-- **Email:** `sharadchandel2005@gmail.com`  
+
+- **Email:** `sharadchandel2005@gmail.com`
 - **Password:** `123456aA@`
 
 ### 🛠️ Worker Login:
-- **Email:** `rudarpartapsingh@gmail.com`  
+
+- **Email:** `rudarpartapsingh@gmail.com`
 - **Password:** `123456aA@`
 
 ## 🛠️ Installation
@@ -68,14 +70,14 @@ npm start
 cd ../frontend
 npm install
 npm run dev
-````
+```
 
 ## 📁 Folder Structure
 
 ```plaintext
 root/
 │
-├── backend/       
+├── backend/
 │   ├── models/
 │   ├── routes/
 │   ├── middleware/
