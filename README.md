@@ -1,6 +1,6 @@
 # 🚀 HomeEase - Home Services Platform
 
-A MERN stack platform built to connect users with skilled local workers for home services like carpentry, plumbing, moving, and more — all in one place.
+_A MERN stack platform built to connect users with skilled local workers for home services like carpentry, plumbing, moving, and more — all in one place._
 
 ## ✨ Features
 
