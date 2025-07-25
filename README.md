@@ -34,11 +34,15 @@
 
 ## 📺 Live Demo
 
+https://github.com/user-attachments/assets/36c7727b-aefb-49f8-b601-7964a391e085
+
 <p align="center">
-  <img src="https://your-screenshot-or-gif-link.gif" alt="HomeEase Demo" width="80%"/>
+  <b>🎬 Watch in High Quality →</b> <a href="https://www.youtube.com/watch?v=hD-5ovCwE8o" target="_blank">YouTube</a>
 </p>
 
-🔗 **Live Demo →** *([https://homeease-oa77.onrender.com](https://homeease-oa77.onrender.com))*
+<p align="center">
+  🔗 <b>Live App →</b> <a href="https://homeease-oa77.onrender.com" target="_blank">homeease-oa77.onrender.com</a>
+</p>
 
 ## 🧪 Test Credentials
 
