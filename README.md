@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/36c7727b-aefb-49f8-b601-7964a391e085
 
 ```bash
 # Clone the repo
-git clone https://github.com/sharadj19/homeease.git
+git clone https://github.com/RudarRelics/homeease.git
 
 # Backend setup
 cd homeease/backend
@@ -95,24 +95,6 @@ root/
 │   │   ├── context/
 │   │   └── App.tsx
 ```
-
-## 👨‍💻 Author
-
-<table>
-<tr>
-  <td align="center">
-    <a href="https://sharad.is-a.dev/">
-      <img src="https://avatars.githubusercontent.com/u/85397332?v=4" width="100px;" alt="Sharad's Avatar"/>
-      <br />
-      <sub><b>Sharad Chandel</b></sub>
-    </a>
-  </td>
-</tr>
-</table>
-
-📫 [Email](mailto:sharadchandel2005@email.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sharadchandel2005/)
-🌐 [Portfolio](https://sharad.is-a.dev/)
 
 ## 📝 License
 
